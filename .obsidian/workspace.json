@@ -13,19 +13,17 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "foreign trade/任务看板.md",
+                "file": "每日TODO/未命名看板.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
-                    false,
                     false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "任务看板"
+              "title": "未命名看板"
             }
           }
         ]
@@ -198,10 +196,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "92fb039a56f20594",
+  "active": "87803ff0d1b8efcb",
   "lastOpenFiles": [
-    "未命名看板.md",
     "foreign trade/任务看板.md",
+    "每日TODO/未命名看板.md",
+    "每日TODO/2025-06-25.md",
+    "2025-06-25.md",
+    "每日TODO",
+    "未命名看板.md",
     "foreign trade",
     "创建链接.md",
     "欢迎.md"
