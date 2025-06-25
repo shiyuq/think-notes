@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "每日TODO/未命名看板.md",
+                "file": "每日TODO/日常任务.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -23,7 +23,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "未命名看板"
+              "title": "日常任务"
             }
           }
         ]
@@ -199,7 +199,7 @@
   "active": "87803ff0d1b8efcb",
   "lastOpenFiles": [
     "foreign trade/任务看板.md",
-    "每日TODO/未命名看板.md",
+    "每日TODO/日常任务.md",
     "每日TODO/2025-06-25.md",
     "2025-06-25.md",
     "每日TODO",
