@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5989f8b9a5320ef1",
@@ -215,6 +214,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ad25169f0c9eb315",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
           }
         ],
         "currentTab": 4
@@ -241,8 +254,8 @@
   "active": "b47bf51539b610f6",
   "lastOpenFiles": [
     "foreign trade/引爆外贸交易/任务集合.md",
-    "foreign trade/引爆外贸交易/复盘十天成交$230 万订单.md",
     "foreign trade/引爆外贸交易/外贸谈资.md",
+    "foreign trade/引爆外贸交易/复盘十天成交$230 万订单.md",
     "每日TODO/日常任务.md",
     "2025-06-25.md",
     "Excalidraw/Drawing 2025-06-25 15.56.14.excalidraw.md",
