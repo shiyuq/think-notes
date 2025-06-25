@@ -4,26 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9604f601c34f3249",
+        "id": "6e6cebcaee681fc5",
         "type": "tabs",
         "children": [
           {
-            "id": "87803ff0d1b8efcb",
+            "id": "a7936633d2d81e39",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "每日TODO/日常任务.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "foreign trade/引爆外贸交易/外贸谈资.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "日常任务"
+              "icon": "lucide-file",
+              "title": "外贸谈资"
             }
           }
         ]
@@ -45,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -77,6 +72,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
+            }
+          },
+          {
+            "id": "4173295fa23da529",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -145,23 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "foreign trade/任务看板.md",
+                "file": "foreign trade/引爆外贸交易/任务集合.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "任务看板 的大纲"
-            }
-          },
-          {
-            "id": "4173295fa23da529",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "任务集合 的大纲"
             }
           },
           {
@@ -175,33 +170,42 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:查看关系图谱": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:创建新看板": false,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
+      "templater-obsidian:Templater": false,
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "87803ff0d1b8efcb",
+  "active": "a7936633d2d81e39",
   "lastOpenFiles": [
-    "foreign trade/任务看板.md",
+    "foreign trade/引爆外贸交易/任务集合.md",
+    "foreign trade/引爆外贸交易/外贸谈资.md",
+    "foreign trade/引爆外贸交易/复盘十天成交$230 万订单.md",
     "每日TODO/日常任务.md",
-    "每日TODO/2025-06-25.md",
     "2025-06-25.md",
+    "Excalidraw/Drawing 2025-06-25 15.56.14.excalidraw.md",
+    "Excalidraw",
+    "外贸谈资.md",
+    "外贸谈资 @{2025-06-25}.md",
+    "foreign trade/引爆外贸交易",
+    "未命名.md",
+    "每日TODO/2025-06-25.md",
     "每日TODO",
     "未命名看板.md",
     "foreign trade",
