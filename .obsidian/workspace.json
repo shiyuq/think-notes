@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5989f8b9a5320ef1",
@@ -234,7 +235,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,7 +245,6 @@
       "obsidian-kanban:创建新看板": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "templater-obsidian:Templater": false,
       "command-palette:打开命令面板": false,
