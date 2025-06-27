@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "foreign trade/引爆外贸交易/复盘十天成交$230 万订单.md",
+                "file": "foreign trade/引爆外贸交易/外贸谈资.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "复盘十天成交$230 万订单"
+              "title": "外贸谈资"
             }
           }
         ]
@@ -35,13 +35,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "foreign trade/引爆外贸交易/复盘十天成交$230 万订单.md",
+                "file": "foreign trade/引爆外贸交易/外贸谈资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "复盘十天成交$230 万订单 的大纲"
+              "title": "外贸谈资 的大纲"
             }
           }
         ]
@@ -211,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,11 +228,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "92fb039a56f20594",
+  "active": "b47bf51539b610f6",
   "lastOpenFiles": [
+    "foreign trade/引爆外贸交易/复盘十天成交$230 万订单.md",
     "foreign trade/引爆外贸交易/任务集合.md",
     "foreign trade/引爆外贸交易/外贸谈资.md",
-    "foreign trade/引爆外贸交易/复盘十天成交$230 万订单.md",
     "每日TODO/日常任务.md",
     "2025-06-25.md",
     "Excalidraw/Drawing 2025-06-25 15.56.14.excalidraw.md",
