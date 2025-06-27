@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,7 +227,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b47bf51539b610f6",
+  "active": "92fb039a56f20594",
   "lastOpenFiles": [
     "foreign trade/引爆外贸交易/任务集合.md",
     "foreign trade/引爆外贸交易/外贸谈资.md",
