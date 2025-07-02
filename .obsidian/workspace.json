@@ -37,7 +37,7 @@
               "type": "outline",
               "state": {
                 "file": "foreign trade/引爆外贸交易/一站式展会英语话术助力成交.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -223,8 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
